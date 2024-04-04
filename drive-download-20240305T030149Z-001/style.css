@@ -303,6 +303,11 @@ i {
 .footer img {
   width: 200px;
 }
+.footer p {
+  display: flex;
+  text-align: center;
+  margin-bottom: 15px;
+}
 
 .footer-icons {
   display: flex;
